@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/05\/22",
+            "url": "https://www.daily-tohoku.news/archives/65695",
+            "text": "青森県防災航空センターでクラスター"
+      },
+      {
+            "date": "2021\/05\/22",
+            "url": "https://www.daily-tohoku.news/archives/65691",
+            "text": "青森県内、Ｎ５０１Ｙ変異株１２件確認"
+      },
+      {
+            "date": "2021\/05\/22",
+            "url": "https://www.daily-tohoku.news/archives/65689",
+            "text": "青森県内で１９人コロナ感染　八戸市、上十三各２人"
+      },
+      {
+            "date": "2021\/05\/22",
+            "url": "https://www.daily-tohoku.news/archives/65685",
+            "text": "岩手県内で１９人コロナ感染　１人死亡"
+      },
+      {
             "date": "2021\/05\/21",
             "url": "https://www.daily-tohoku.news/archives/65604",
             "text": "青森県内で２９人コロナ感染、１人死亡"
@@ -54,26 +74,6 @@
             "date": "2021\/05\/19",
             "url": "https://www.daily-tohoku.news/archives/65374",
             "text": "【速報】岩手県内で１８人コロナ感染、１人死亡"
-      },
-      {
-            "date": "2021\/05\/18",
-            "url": "https://www.daily-tohoku.news/archives/65281",
-            "text": "青森県内で２８人コロナ感染　累計２０００人超え"
-      },
-      {
-            "date": "2021\/05\/18",
-            "url": "https://www.daily-tohoku.news/archives/65272",
-            "text": "【速報】岩手県内１６人コロナ感染　１人死亡"
-      },
-      {
-            "date": "2021\/05\/17",
-            "url": "https://www.daily-tohoku.news/archives/65188",
-            "text": "【速報】青森市でＮ５０１Ｙ変異株３件確認"
-      },
-      {
-            "date": "2021\/05\/17",
-            "url": "https://www.daily-tohoku.news/archives/65183",
-            "text": "【速報】青森県内で２９人コロナ感染"
       }
     ]
 }
