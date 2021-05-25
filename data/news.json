@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/05\/25",
+            "url": "https://www.daily-tohoku.news/archives/65969",
+            "text": "弘前管内でクラスター２件"
+      },
+      {
+            "date": "2021\/05\/25",
+            "url": "https://www.daily-tohoku.news/archives/65967",
+            "text": "青森県内で３４人コロナ感染　弘前管内１６人"
+      },
+      {
+            "date": "2021\/05\/25",
             "url": "https://www.daily-tohoku.news/archives/65955",
             "text": "岩手で新たに１３人コロナ感染"
       },
@@ -64,16 +74,6 @@
             "date": "2021\/05\/20",
             "url": "https://www.daily-tohoku.news/archives/65502",
             "text": "【新型コロナ】新たに変異株１例確認／青森県内"
-      },
-      {
-            "date": "2021\/05\/20",
-            "url": "https://www.daily-tohoku.news/archives/65494",
-            "text": "八戸市の高校でクラスター"
-      },
-      {
-            "date": "2021\/05\/20",
-            "url": "https://www.daily-tohoku.news/archives/65493",
-            "text": "青森市の高齢者施設でクラスター"
       }
     ]
 }
