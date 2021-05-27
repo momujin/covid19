@@ -2,6 +2,11 @@
     "newsItems": [
       {
             "date": "2021\/05\/27",
+            "url": "https://www.daily-tohoku.news/archives/66240",
+            "text": "青森県内で２０人コロナ感染　八戸市２人"
+      },
+      {
+            "date": "2021\/05\/27",
             "url": "https://www.daily-tohoku.news/archives/66231",
             "text": "岩手で新たに１６人コロナ感染"
       },
@@ -69,26 +74,6 @@
             "date": "2021\/05\/22",
             "url": "https://www.daily-tohoku.news/archives/65685",
             "text": "岩手県内で１９人コロナ感染　１人死亡"
-      },
-      {
-            "date": "2021\/05\/21",
-            "url": "https://www.daily-tohoku.news/archives/65604",
-            "text": "青森県内で２９人コロナ感染、１人死亡"
-      },
-      {
-            "date": "2021\/05\/21",
-            "url": "https://www.daily-tohoku.news/archives/65597",
-            "text": "青森市の趣味の場でクラスター"
-      },
-      {
-            "date": "2021\/05\/21",
-            "url": "https://www.daily-tohoku.news/archives/65586",
-            "text": "岩手県内で１３人コロナ感染"
-      },
-      {
-            "date": "2021\/05\/20",
-            "url": "https://www.daily-tohoku.news/archives/65502",
-            "text": "【新型コロナ】新たに変異株１例確認／青森県内"
       }
     ]
 }
