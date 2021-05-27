@@ -1,6 +1,11 @@
 {
     "newsItems": [
       {
+            "date": "2021\/05\/27",
+            "url": "https://www.daily-tohoku.news/archives/66231",
+            "text": "岩手で新たに１６人コロナ感染"
+      },
+      {
             "date": "2021\/05\/26",
             "url": "https://www.daily-tohoku.news/archives/66104",
             "text": "青森県内５１人コロナ感染　八戸市７人"
