@@ -19,13 +19,11 @@
       <confirmed-cases-attributes-card />
       <confirmed-cases-number-card />
     </v-row>
-      <whats-new2 class="mb-4" :items="eventItems" />
-      <whats-new3 class="mb-4" :items="sportsItems"/>
-      
       <div class="DataCard col-md-12 col-12">
           <iframe src="https://e.infogram.com/ba9944f3-2ecf-4f77-8f90-8203cd3663af?src=embed" title="ワクチン接種数（県別）" width="100%" height="550" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 640px"><a href="https://infogram.com/ba9944f3-2ecf-4f77-8f90-8203cd3663af" style="color:#989898!important;text-decoration:none!important;" target="_blank">ワクチン接種数（県別）</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
       </div>
-      
+      <whats-new2 class="mb-4" :items="eventItems" />
+      <whats-new3 class="mb-4" :items="sportsItems"/>
       <div class="WorryInfoBlock mb-4">
         <h3 class="WhatsNew-heading"><i aria-hidden="true" class="v-icon notranslate WhatsNew-heading-icon mdi mdi-information theme--light" style="font-size: 24px;"></i>
         新型コロナウイルスの感染が心配なときは
