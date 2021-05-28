@@ -22,8 +22,17 @@
       <whats-new2 class="mb-4" :items="eventItems" />
       <whats-new3 class="mb-4" :items="sportsItems"/>
       
-      <div class="col-md-6 col-md-12 infogram-embed" data-id="c2903dda-3c88-45f5-802b-ee3c364ddd81" data-type="interactive" data-title="ワクチン接種数"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/c2903dda-3c88-45f5-802b-ee3c364ddd81" style="color:#989898!important;text-decoration:none!important;" target="_blank">ワクチン接種数</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-      
+      <div class="infogram-embed" data-id="c2903dda-3c88-45f5-802b-ee3c364ddd81" data-type="interactive"
+          data-title="ワクチン接種数"></div>
+          <script>!function (e, i, n, s) { var t = "InfogramEmbeds", d = e.getElementsByTagName("script")[0]; if (window[t] && window[t].initialized) window[t].process && window[t].process(); else if (!e.getElementById(n)) { var o = e.createElement("script"); o.async = 1, o.id = n, o.src = "https://e.infogram.com/js/dist/embed-loader-min.js", d.parentNode.insertBefore(o, d) } }(document, 0, "infogram-async");</script>
+          <div
+              style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px">
+              <a href="https://infogram.com/c2903dda-3c88-45f5-802b-ee3c364ddd81"
+                  style="color:#989898!important;text-decoration:none!important;" target="_blank">ワクチン接種数</a><br><a
+                  href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank"
+                  rel="nofollow">Infogram
+              </a>
+      </div>      
 
       <div class="WorryInfoBlock mb-4">
         <h3 class="WhatsNew-heading"><i aria-hidden="true" class="v-icon notranslate WhatsNew-heading-icon mdi mdi-information theme--light" style="font-size: 24px;"></i>
