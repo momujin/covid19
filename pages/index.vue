@@ -16,7 +16,6 @@
     <v-row class="DataBlock">
       <confirmed-cases-details-card />
       <tested-cases-details-card />
-      <confirmed-cases-attributes-card />
       <confirmed-cases-number-card />
     </v-row>
       <div class="DataCard col-md-12 col-12">
