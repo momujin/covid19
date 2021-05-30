@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2021\/05\/30",
+            "url": "https://www.daily-tohoku.news/archives/66534",
+            "text": "【速報】弘前管内で１人コロナ感染／青森県"
+      },
+      {
+            "date": "2021\/05\/30",
+            "url": "https://www.daily-tohoku.news/archives/66532",
+            "text": "【速報】岩手県内で９人コロナ感染"
+      },
+      {
             "date": "2021\/05\/29",
             "url": "https://www.daily-tohoku.news/archives/66469",
             "text": "【速報】青森県内で２５人コロナ感染"
@@ -64,16 +74,6 @@
             "date": "2021\/05\/24",
             "url": "https://www.daily-tohoku.news/archives/65859",
             "text": "岩手県内で９人コロナ感染"
-      },
-      {
-            "date": "2021\/05\/23",
-            "url": "https://www.daily-tohoku.news/archives/65776",
-            "text": "青森県内で１１人コロナ感染"
-      },
-      {
-            "date": "2021\/05\/23",
-            "url": "https://www.daily-tohoku.news/archives/65772",
-            "text": "岩手県内で１１人コロナ感染"
       }
     ]
 }
