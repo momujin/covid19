@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/06\/03",
+            "url": "https://www.daily-tohoku.news/archives/66902",
+            "text": "【青森県高総体】ボクシング競技中止　コロナ感染リスク踏まえ"
+      },
+      {
+            "date": "2021\/06\/02",
+            "url": "https://www.daily-tohoku.news/archives/66886",
+            "text": "【新型コロナ】青森県内　直近２週間「３人に１人変異株」　大西医師指摘"
+      },
+      {
+            "date": "2021\/06\/02",
+            "url": "https://www.daily-tohoku.news/archives/66883",
+            "text": "【新型コロナ】岩手で１７人感染　盛岡で新たな飲食店クラスター"
+      },
+      {
+            "date": "2021\/06\/02",
+            "url": "https://www.daily-tohoku.news/archives/66878",
+            "text": "青森ねぶた祭り中止へ　実行委、コロナ踏まえ「リスク大きい」"
+      },
+      {
             "date": "2021\/06\/01",
             "url": "https://www.daily-tohoku.news/archives/66742",
             "text": "青森県内で１６人コロナ感染　弘前管内でクラスターも"
