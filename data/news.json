@@ -2,6 +2,16 @@
     "newsItems": [
       {
             "date": "2021\/06\/03",
+            "url": "https://www.daily-tohoku.news/archives/66995",
+            "text": "【新型コロナ】青森県内で１０人感染　県内累計２３９３人　"
+      },      
+      {
+            "date": "2021\/06\/03",
+            "url": "https://www.daily-tohoku.news/archives/66942",
+            "text": "【速報】岩手で新たに７人コロナ感染"
+      },
+      {
+            "date": "2021\/06\/03",
             "url": "https://www.daily-tohoku.news/archives/66902",
             "text": "【青森県高総体】ボクシング競技中止　コロナ感染リスク踏まえ"
       },
@@ -74,21 +84,6 @@
             "date": "2021\/05\/29",
             "url": "https://www.daily-tohoku.news/archives/66466",
             "text": "【速報】岩手県内で２０人コロナ感染"
-      },
-      {
-            "date": "2021\/05\/28",
-            "url": "https://www.daily-tohoku.news/archives/66364",
-            "text": "青森県内で３２人コロナ感染、１人死亡"
-      },
-      {
-            "date": "2021\/05\/28",
-            "url": "https://www.daily-tohoku.news/archives/66348",
-            "text": "【速報】岩手県内で１１人コロナ感染"
-      },
-      {
-            "date": "2021\/05\/27",
-            "url": "https://www.daily-tohoku.news/archives/66240",
-            "text": "青森県内で２０人コロナ感染　八戸市２人"
       }
     ]
 }
