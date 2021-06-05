@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2021\/06\/05",
+            "url": "https://www.daily-tohoku.news/archives/67174",
+            "text": "青森県内で９人コロナ感染"
+      },
+      {
+            "date": "2021\/06\/05",
+            "url": "https://www.daily-tohoku.news/archives/67172",
+            "text": "岩手県内で９人コロナ感染、１人死亡"
+      },
+      {
+            "date": "2021\/06\/04",
+            "url": "https://www.daily-tohoku.news/archives/67073",
+            "text": "上十三管内で職場クラスター"
+      },
+      {
+            "date": "2021\/06\/04",
+            "url": "https://www.daily-tohoku.news/archives/67072",
+            "text": "青森県内で１３人コロナ感染"
+      },
+      {
+            "date": "2021\/06\/04",
+            "url": "https://www.daily-tohoku.news/archives/67061",
+            "text": "岩手で新たに７人コロナ感染"
+      },
+      {
             "date": "2021\/06\/03",
             "url": "https://www.daily-tohoku.news/archives/66995",
             "text": "【新型コロナ】青森県内で１０人感染　県内累計２３９３人　"
