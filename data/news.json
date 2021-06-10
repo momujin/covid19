@@ -1,6 +1,46 @@
 {
     "newsItems": [
       {
+            "date": "2021\/06\/10",
+            "url": "https://www.daily-tohoku.news/archives/67647",
+            "text": "弘前管内で２人コロナ感染／青森県内"
+      },
+      {
+            "date": "2021\/06\/10",
+            "url": "https://www.daily-tohoku.news/archives/67642",
+            "text": "岩手で新たに１４人コロナ感染　久慈管内１人"
+      },
+      {
+            "date": "2021\/06\/09",
+            "url": "https://www.daily-tohoku.news/archives/67591",
+            "text": "【新型コロナ】青森県内で４人感染　累計２４４０人"
+      },
+      {
+            "date": "2021\/06\/09",
+            "url": "https://www.daily-tohoku.news/archives/67591",
+            "text": "【新型コロナ】青森県内で４人感染　累計２４４０人"
+      },
+      {
+            "date": "2021\/06\/09",
+            "url": "https://www.daily-tohoku.news/archives/67589",
+            "text": "【新型コロナ】岩手県で１８人感染　８人経路不明"
+      },
+      {
+            "date": "2021\/06\/09",
+            "url": "https://www.daily-tohoku.news/archives/67546",
+            "text": "新型コロナで追加支援　中小企業６０万、個人事業主３０万／青森県"
+      },
+      {
+            "date": "2021\/06\/08",
+            "url": "https://www.daily-tohoku.news/archives/67497",
+            "text": "【新型コロナ】青森県内、６月の変異株４割超え"
+      },
+      {
+            "date": "2021\/06\/08",
+            "url": "https://www.daily-tohoku.news/archives/67497",
+            "text": "【新型コロナ】青森県内、６月の変異株４割超え"
+      },
+      {
             "date": "2021\/06\/08",
             "url": "https://www.daily-tohoku.news/archives/67457",
             "text": "青森県内で１０人コロナ感染、上十三３人"
@@ -54,46 +94,6 @@
             "date": "2021\/06\/04",
             "url": "https://www.daily-tohoku.news/archives/67061",
             "text": "岩手で新たに７人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/03",
-            "url": "https://www.daily-tohoku.news/archives/66995",
-            "text": "【新型コロナ】青森県内で１０人感染　県内累計２３９３人　"
-      },      
-      {
-            "date": "2021\/06\/03",
-            "url": "https://www.daily-tohoku.news/archives/66942",
-            "text": "【速報】岩手で新たに７人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/03",
-            "url": "https://www.daily-tohoku.news/archives/66902",
-            "text": "【青森県高総体】ボクシング競技中止　コロナ感染リスク踏まえ"
-      },
-      {
-            "date": "2021\/06\/02",
-            "url": "https://www.daily-tohoku.news/archives/66886",
-            "text": "【新型コロナ】青森県内　直近２週間「３人に１人変異株」　大西医師指摘"
-      },
-      {
-            "date": "2021\/06\/02",
-            "url": "https://www.daily-tohoku.news/archives/66883",
-            "text": "【新型コロナ】岩手で１７人感染　盛岡で新たな飲食店クラスター"
-      },
-      {
-            "date": "2021\/06\/02",
-            "url": "https://www.daily-tohoku.news/archives/66878",
-            "text": "青森ねぶた祭り中止へ　実行委、コロナ踏まえ「リスク大きい」"
-      },
-      {
-            "date": "2021\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/66742",
-            "text": "青森県内で１６人コロナ感染　弘前管内でクラスターも"
-      },
-      {
-            "date": "2021\/06\/01",
-            "url": "https://www.daily-tohoku.news/archives/66728",
-            "text": "岩手県内で６人コロナ感染"
       }
     ]
 }
