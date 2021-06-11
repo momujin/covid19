@@ -1,6 +1,16 @@
 {
     "newsItems": [
       {
+            "date": "2021\/06\/11",
+            "url": "https://www.daily-tohoku.news/archives/67647",
+            "text": "【速報】弘前管内で２人コロナ感染／青森県内"
+      },
+      {
+            "date": "2021\/06\/11",
+            "url": "https://www.daily-tohoku.news/archives/67642",
+            "text": "【速報】岩手で新たに１４人コロナ感染　久慈管内１人"
+      },
+      {
             "date": "2021\/06\/10",
             "url": "https://www.daily-tohoku.news/archives/67647",
             "text": "弘前管内で２人コロナ感染／青森県内"
@@ -79,21 +89,6 @@
             "date": "2021\/06\/05",
             "url": "https://www.daily-tohoku.news/archives/67172",
             "text": "岩手県内で９人コロナ感染、１人死亡"
-      },
-      {
-            "date": "2021\/06\/04",
-            "url": "https://www.daily-tohoku.news/archives/67073",
-            "text": "上十三管内で職場クラスター"
-      },
-      {
-            "date": "2021\/06\/04",
-            "url": "https://www.daily-tohoku.news/archives/67072",
-            "text": "青森県内で１３人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/04",
-            "url": "https://www.daily-tohoku.news/archives/67061",
-            "text": "岩手で新たに７人コロナ感染"
       }
     ]
 }
