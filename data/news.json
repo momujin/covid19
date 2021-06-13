@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2021\/06\/13",
+            "url": "https://www.daily-tohoku.news/archives/67941",
+            "text": "【速報】上十三管内の１人コロナ感染／青森県内"
+      },
+      {
+            "date": "2021\/06\/13",
+            "url": "https://www.daily-tohoku.news/archives/67938",
+            "text": "【速報】岩手県内で１０人コロナ感染"
+      },
+      {
+            "date": "2021\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/67869",
+            "text": "【新型コロナ】青森県内で３人感染　上十三管内１人"
+      },
+      {
+            "date": "2021\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/67842",
+            "text": "【速報】岩手県内で１６人コロナ感染"
+      },
+      {
+            "date": "2021\/06\/12",
+            "url": "https://www.daily-tohoku.news/archives/67794",
+            "text": "【新型コロナ】八戸市の観光影響調査　直近３カ月は１９年比２～３割減少"
+      },
+      {
             "date": "2021\/06\/11",
             "url": "https://www.daily-tohoku.news/archives/67647",
             "text": "【速報】弘前管内で２人コロナ感染／青森県内"
@@ -74,21 +99,6 @@
             "date": "2021\/06\/06",
             "url": "https://www.daily-tohoku.news/archives/67251",
             "text": "青森県内で２人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/06",
-            "url": "https://www.daily-tohoku.news/archives/67248",
-            "text": "岩手で新たに１２人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/05",
-            "url": "https://www.daily-tohoku.news/archives/67174",
-            "text": "青森県内で９人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/05",
-            "url": "https://www.daily-tohoku.news/archives/67172",
-            "text": "岩手県内で９人コロナ感染、１人死亡"
       }
     ]
 }
