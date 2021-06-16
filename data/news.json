@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/06\/16",
+            "url": "https://www.daily-tohoku.news/archives/68218",
+            "text": "岩手県内で１０人コロナ感染"
+      },
+      {
+            "date": "2021\/06\/16",
+            "url": "https://www.daily-tohoku.news/archives/68217",
+            "text": "青森県内で１人コロナ感染、１人死亡"
+      },
+      {
+            "date": "2021\/06\/15",
+            "url": "https://www.daily-tohoku.news/archives/68162",
+            "text": "【新型コロナ】八戸市などで３人感染　変異株は６例／青森県"
+      },
+      {
+            "date": "2021\/06\/15",
+            "url": "https://www.daily-tohoku.news/archives/68161",
+            "text": "【新型コロナ】岩手県で７人感染　県内累計１６０６人"
+      },
+      {
             "date": "2021\/06\/14",
             "url": "https://www.daily-tohoku.news/archives/68060",
             "text": "【新型コロナ】青森県内の感染者、７７日ぶりゼロ"
@@ -49,31 +69,7 @@
             "date": "2021\/06\/10",
             "url": "https://www.daily-tohoku.news/archives/67647",
             "text": "弘前管内で２人コロナ感染／青森県内"
-      },
-      {
-            "date": "2021\/06\/10",
-            "url": "https://www.daily-tohoku.news/archives/67642",
-            "text": "岩手で新たに１４人コロナ感染　久慈管内１人"
-      },
-      {
-            "date": "2021\/06\/09",
-            "url": "https://www.daily-tohoku.news/archives/67591",
-            "text": "【新型コロナ】青森県内で４人感染　累計２４４０人"
-      },
-      {
-            "date": "2021\/06\/09",
-            "url": "https://www.daily-tohoku.news/archives/67591",
-            "text": "【新型コロナ】青森県内で４人感染　累計２４４０人"
-      },
-      {
-            "date": "2021\/06\/09",
-            "url": "https://www.daily-tohoku.news/archives/67589",
-            "text": "【新型コロナ】岩手県で１８人感染　８人経路不明"
-      },
-      {
-            "date": "2021\/06\/09",
-            "url": "https://www.daily-tohoku.news/archives/67546",
-            "text": "新型コロナで追加支援　中小企業６０万、個人事業主３０万／青森県"
+      }   "text": "新型コロナで追加支援　中小企業６０万、個人事業主３０万／青森県"
       }
     ]
 }
