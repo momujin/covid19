@@ -1,5 +1,15 @@
 {
     "newsItems": [
+       {
+            "date": "2021\/06\/19",
+            "url": "https://www.daily-tohoku.news/archives/68550",
+            "text": "【新型コロナ】青森県内で１人コロナ感染"
+      },
+      {
+            "date": "2021\/06\/19",
+            "url": "https://www.daily-tohoku.news/archives/68548",
+            "text": "【新型コロナ】岩手県内で７人コロナ感染"
+      },
       {
             "date": "2021\/06\/17",
             "url": "https://www.daily-tohoku.news/archives/68381",
