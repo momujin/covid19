@@ -1,9 +1,29 @@
 {
     "newsItems": [
       {
-            "date": "2021\/06\/20",
-            "url": "https://www.daily-tohoku.news/archives/68647",
-            "text": "【新型コロナ】岩手県内で１人コロナ感染"
+            "date": "2021\/06\/22",
+            "url": "https://www.daily-tohoku.news/archives/68820",
+            "text": "青森県内、コロナ新規感染ゼロ　３日連続"
+      },
+      {
+            "date": "2021\/06\/22",
+            "url": "https://www.daily-tohoku.news/archives/68817",
+            "text": "【速報】久慈管内１人含む５人コロナ感染／岩手県内"
+      },
+      {
+            "date": "2021\/06\/21",
+            "url": "https://www.daily-tohoku.news/archives/68734",
+            "text": "青森県内、コロナ新規感染者なし　２日連続"
+      },
+      {
+            "date": "2021\/06\/21",
+            "url": "https://www.daily-tohoku.news/archives/68730",
+            "text": "【速報】９７日ぶりゼロ　岩手のコロナ新規感染"
+      },
+      {
+            "date": "2021\/06\/21",
+            "url": "https://www.daily-tohoku.news/archives/68691",
+            "text": "【新型コロナ】１０都道府県にまん延防止重点措置　７月１１日まで"
       },
       {
             "date": "2021\/06\/19",
@@ -69,31 +89,6 @@
             "date": "2021\/06\/12",
             "url": "https://www.daily-tohoku.news/archives/67869",
             "text": "【新型コロナ】青森県内で３人感染　上十三管内１人"
-      },
-      {
-            "date": "2021\/06\/12",
-            "url": "https://www.daily-tohoku.news/archives/67842",
-            "text": "【速報】岩手県内で１６人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/12",
-            "url": "https://www.daily-tohoku.news/archives/67794",
-            "text": "【新型コロナ】八戸市の観光影響調査　直近３カ月は１９年比２～３割減少"
-      },
-      {
-            "date": "2021\/06\/11",
-            "url": "https://www.daily-tohoku.news/archives/67647",
-            "text": "【速報】弘前管内で２人コロナ感染／青森県内"
-      },
-      {
-            "date": "2021\/06\/11",
-            "url": "https://www.daily-tohoku.news/archives/67642",
-            "text": "【速報】岩手で新たに１４人コロナ感染　久慈管内１人"
-      },
-      {
-            "date": "2021\/06\/10",
-            "url": "https://www.daily-tohoku.news/archives/67647",
-            "text": "弘前管内で２人コロナ感染／青森県内"
       }
     ]
 }
