@@ -1,6 +1,21 @@
 {
     "newsItems": [
       {
+            "date": "2021\/06\/23",
+            "url": "https://www.daily-tohoku.news/archives/68951",
+            "text": "【新型コロナ】青森県内、４日ぶり感染者確認"
+      },
+      {
+            "date": "2021\/06\/23",
+            "url": "https://www.daily-tohoku.news/archives/68950",
+            "text": "【新型コロナ】盛岡で５人感染、飲食店クラスター発生"
+      },
+      {
+            "date": "2021\/06\/22",
+            "url": "https://www.daily-tohoku.news/archives/68861",
+            "text": "【新型コロナ】岩手で５人感染、久慈管内は１人　県内累計１６３８人"
+      },
+      {
             "date": "2021\/06\/22",
             "url": "https://www.daily-tohoku.news/archives/68820",
             "text": "青森県内、コロナ新規感染ゼロ　３日連続"
@@ -74,21 +89,6 @@
             "date": "2021\/06\/14",
             "url": "https://www.daily-tohoku.news/archives/68059",
             "text": "【新型コロナ】岩手で９人感染　盛岡で新たなクラスター"
-      },
-      {
-            "date": "2021\/06\/13",
-            "url": "https://www.daily-tohoku.news/archives/67941",
-            "text": "【速報】上十三管内の１人コロナ感染／青森県内"
-      },
-      {
-            "date": "2021\/06\/13",
-            "url": "https://www.daily-tohoku.news/archives/67938",
-            "text": "【速報】岩手県内で１０人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/12",
-            "url": "https://www.daily-tohoku.news/archives/67869",
-            "text": "【新型コロナ】青森県内で３人感染　上十三管内１人"
       }
     ]
 }
