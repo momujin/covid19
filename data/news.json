@@ -1,6 +1,26 @@
 {
     "newsItems": [
       {
+            "date": "2021\/06\/25",
+            "url": "https://www.daily-tohoku.news/archives/69164",
+            "text": "【新型コロナ】青森県内で２人感染　運動施設クラスターに関連"
+      },
+      {
+            "date": "2021\/06\/25",
+            "url": "https://www.daily-tohoku.news/archives/69161",
+            "text": "【新型コロナ】二戸管内の１人含む４人感染　Ｎ５０１Ｙ変異株１８件"
+      },
+      {
+            "date": "2021\/06\/24",
+            "url": "https://www.daily-tohoku.news/archives/69047",
+            "text": "【新型コロナ】青森県内で８人感染　弘前管内の運動施設でクラスター"
+      },
+      {
+            "date": "2021\/06\/24",
+            "url": "https://www.daily-tohoku.news/archives/69045",
+            "text": "【新型コロナ】岩手県内で１０人感染、６人経路不明"
+      },
+      {
             "date": "2021\/06\/23",
             "url": "https://www.daily-tohoku.news/archives/68951",
             "text": "【新型コロナ】青森県内、４日ぶり感染者確認"
@@ -54,41 +74,6 @@
             "date": "2021\/06\/17",
             "url": "https://www.daily-tohoku.news/archives/68381",
             "text": "【新型コロナ】青森県内、３日ぶり新規感染者なし"
-      },
-      {
-            "date": "2021\/06\/17",
-            "url": "https://www.daily-tohoku.news/archives/68380",
-            "text": "【新型コロナ】二戸管内などで４人感染／岩手県内"
-      },
-      {
-            "date": "2021\/06\/16",
-            "url": "https://www.daily-tohoku.news/archives/68218",
-            "text": "岩手県内で１０人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/16",
-            "url": "https://www.daily-tohoku.news/archives/68217",
-            "text": "青森県内で１人コロナ感染、１人死亡"
-      },
-      {
-            "date": "2021\/06\/15",
-            "url": "https://www.daily-tohoku.news/archives/68162",
-            "text": "【新型コロナ】八戸市などで３人感染　変異株は６例／青森県"
-      },
-      {
-            "date": "2021\/06\/15",
-            "url": "https://www.daily-tohoku.news/archives/68161",
-            "text": "【新型コロナ】岩手県で７人感染　県内累計１６０６人"
-      },
-      {
-            "date": "2021\/06\/14",
-            "url": "https://www.daily-tohoku.news/archives/68060",
-            "text": "【新型コロナ】青森県内の感染者、７７日ぶりゼロ"
-      },
-      {
-            "date": "2021\/06\/14",
-            "url": "https://www.daily-tohoku.news/archives/68059",
-            "text": "【新型コロナ】岩手で９人感染　盛岡で新たなクラスター"
       }
     ]
 }
