@@ -1,6 +1,31 @@
 {
     "newsItems": [
       {
+            "date": "2021\/06\/28",
+            "url": "https://www.daily-tohoku.news/archives/69372",
+            "text": "【三村知事インタビュー】コロナ後見据え準備加速"
+      },
+      {
+            "date": "2021\/06\/27",
+            "url": "https://www.daily-tohoku.news/archives/69368",
+            "text": "【新型コロナ】弘前管内で１人感染　小学校クラスターに関連"
+      },
+      {
+            "date": "2021\/06\/27",
+            "url": "https://www.daily-tohoku.news/archives/69367",
+            "text": "【新型コロナ】岩手県内で８人感染"
+      },
+      {
+            "date": "2021\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/69276",
+            "text": "【新型コロナ】弘前管内の小学校でクラスター　新規感染は１１人／青森県内"
+      },
+      {
+            "date": "2021\/06\/26",
+            "url": "https://www.daily-tohoku.news/archives/69230",
+            "text": "【速報】岩手で２人コロナ感染"
+      },
+      {
             "date": "2021\/06\/25",
             "url": "https://www.daily-tohoku.news/archives/69164",
             "text": "【新型コロナ】青森県内で２人感染　運動施設クラスターに関連"
@@ -59,21 +84,6 @@
             "date": "2021\/06\/21",
             "url": "https://www.daily-tohoku.news/archives/68691",
             "text": "【新型コロナ】１０都道府県にまん延防止重点措置　７月１１日まで"
-      },
-      {
-            "date": "2021\/06\/19",
-            "url": "https://www.daily-tohoku.news/archives/68550",
-            "text": "【新型コロナ】青森県内で１人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/19",
-            "url": "https://www.daily-tohoku.news/archives/68548",
-            "text": "【新型コロナ】岩手県内で７人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/17",
-            "url": "https://www.daily-tohoku.news/archives/68381",
-            "text": "【新型コロナ】青森県内、３日ぶり新規感染者なし"
       }
     ]
 }
