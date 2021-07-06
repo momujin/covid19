@@ -1,14 +1,29 @@
 {
     "newsItems": [
       {
-            "date": "2021\/07\/04",
-            "url": "https://www.daily-tohoku.news/archives/70087",
-            "text": "弘前管内で２人コロナ感染／青森県内"
+            "date": "2021\/07\/06",
+            "url": "https://www.daily-tohoku.news/archives/70240",
+            "text": "感染防止対策整え受け入れ準備　北奥羽の海水浴場、コロナ禍２度目の夏"
+      },
+      {
+            "date": "2021\/07\/05",
+            "url": "https://www.daily-tohoku.news/archives/70232",
+            "text": "【新型コロナ】弘前管内で１人感染、経路不明"
+      },
+      {
+            "date": "2021\/07\/05",
+            "url": "https://www.daily-tohoku.news/archives/70231",
+            "text": "【新型コロナ】岩手で１７人感染、県内累計１７３０人"
       },
       {
             "date": "2021\/07\/04",
-            "url": "https://www.daily-tohoku.news/archives/70082",
-            "text": "岩手で６人コロナ感染"
+            "url": "https://www.daily-tohoku.news/archives/70123",
+            "text": "【新型コロナ】弘前管内で２人感染　小学校クラスターに関連"
+      },
+      {
+            "date": "2021\/07\/04",
+            "url": "https://www.daily-tohoku.news/archives/70122",
+            "text": "【新型コロナ】岩手県内で６人感染　中部管内でクラスター"
       },
       {
             "date": "2021\/07\/03",
@@ -64,36 +79,6 @@
             "date": "2021\/06\/29",
             "url": "https://www.daily-tohoku.news/archives/69533",
             "text": "岩手で３人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/28",
-            "url": "https://www.daily-tohoku.news/archives/69423",
-            "text": "八戸市などで２人コロナ感染"
-      },
-      {
-            "date": "2021\/06\/28",
-            "url": "https://www.daily-tohoku.news/archives/69412",
-            "text": "岩手のコロナ感染はゼロ　１週間ぶり"
-      },
-      {
-            "date": "2021\/06\/28",
-            "url": "https://www.daily-tohoku.news/archives/69372",
-            "text": "【三村知事インタビュー】コロナ後見据え準備加速"
-      },
-      {
-            "date": "2021\/06\/27",
-            "url": "https://www.daily-tohoku.news/archives/69368",
-            "text": "【新型コロナ】弘前管内で１人感染　小学校クラスターに関連"
-      },
-      {
-            "date": "2021\/06\/27",
-            "url": "https://www.daily-tohoku.news/archives/69367",
-            "text": "【新型コロナ】岩手県内で８人感染"
-      },
-      {
-            "date": "2021\/06\/26",
-            "url": "https://www.daily-tohoku.news/archives/69276",
-            "text": "【新型コロナ】弘前管内の小学校でクラスター　新規感染は１１人／青森県内"
       }
     ]
 }
