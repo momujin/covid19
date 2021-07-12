@@ -1,6 +1,61 @@
 {
     "newsItems": [
       {
+            "date": "2021\/07\/11",
+            "url": "https://www.daily-tohoku.news/archives/70782",
+            "text": "【コロナワクチン】２６日から「ワクチンパスポート」申請受け付け"
+      },
+      {
+            "date": "2021\/07\/11",
+            "url": "https://www.daily-tohoku.news/archives/70765",
+            "text": "弘前管内で１人コロナ感染／青森県内"
+      },
+      {
+            "date": "2021\/07\/11",
+            "url": "https://www.daily-tohoku.news/archives/70756",
+            "text": "【速報】岩手で１４人コロナ感染"
+      },
+      {
+            "date": "2021\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/70707",
+            "text": "【新型コロナ】青森県内、２日連続新規感染ゼロ"
+      },
+      {
+            "date": "2021\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/70706",
+            "text": "【新型コロナ】岩手県内で８人感染　累計１７７４人"
+      },
+      {
+            "date": "2021\/07\/10",
+            "url": "https://www.daily-tohoku.news/archives/70670",
+            "text": "米軍三沢基地関係者１人コロナ感染"
+      },
+      {
+            "date": "2021\/07\/09",
+            "url": "https://www.daily-tohoku.news/archives/70618",
+            "text": "【新型コロナ】青森県内、１７日ぶりに新規感染者ゼロ"
+      },
+      {
+            "date": "2021\/07\/09",
+            "url": "https://www.daily-tohoku.news/archives/70617",
+            "text": "【新型コロナ】岩手県内で１２人感染　中部管内でクラスター"
+      },
+      {
+            "date": "2021\/07\/09",
+            "url": "https://www.daily-tohoku.news/archives/70526",
+            "text": "【コロナワクチン】１９、２６日の週、青森県南には４１箱"
+      },
+      {
+            "date": "2021\/07\/08",
+            "url": "https://www.daily-tohoku.news/archives/70508",
+            "text": "【新型コロナ】上十三管内の学校クラスター、弘前管内から飛び火"
+      },
+      {
+            "date": "2021\/07\/08",
+            "url": "https://www.daily-tohoku.news/archives/70508",
+            "text": "【新型コロナ】岩手県内で８人感染　盛岡では学校クラスター"
+      },
+      {
             "date": "2021\/07\/08",
             "url": "https://www.daily-tohoku.news/archives/70470",
             "text": "上十三管内で７人コロナ感染、学校でクラスター／青森県"
@@ -29,31 +84,6 @@
             "date": "2021\/07\/06",
             "url": "https://www.daily-tohoku.news/archives/70240",
             "text": "感染防止対策整え受け入れ準備　北奥羽の海水浴場、コロナ禍２度目の夏"
-      },
-      {
-            "date": "2021\/07\/05",
-            "url": "https://www.daily-tohoku.news/archives/70232",
-            "text": "【新型コロナ】弘前管内で１人感染、経路不明"
-      },
-      {
-            "date": "2021\/07\/05",
-            "url": "https://www.daily-tohoku.news/archives/70231",
-            "text": "【新型コロナ】岩手で１７人感染、県内累計１７３０人"
-      },
-      {
-            "date": "2021\/07\/04",
-            "url": "https://www.daily-tohoku.news/archives/70123",
-            "text": "【新型コロナ】弘前管内で２人感染　小学校クラスターに関連"
-      },
-      {
-            "date": "2021\/07\/04",
-            "url": "https://www.daily-tohoku.news/archives/70122",
-            "text": "【新型コロナ】岩手県内で６人感染　中部管内でクラスター"
-      },
-      {
-            "date": "2021\/07\/03",
-            "url": "https://www.daily-tohoku.news/archives/69993",
-            "text": "青森県内で７人コロナ感染"
       }
     ]
 }
