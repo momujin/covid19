@@ -1,6 +1,41 @@
 {
     "newsItems": [
       {
+            "date": "2021\/07\/14",
+            "url": "https://www.daily-tohoku.news/archives/71116",
+            "text": "【新型コロナ】岩手で８人感染　累計１８２０人"
+      },
+      {
+            "date": "2021\/07\/14",
+            "url": "https://www.daily-tohoku.news/archives/71091",
+            "text": "【新型コロナ】米軍三沢基地関係者１人陽性"
+      },
+      {
+            "date": "2021\/07\/14",
+            "url": "https://www.daily-tohoku.news/archives/71072",
+            "text": "【速報】青森県内で６人コロナ感染　八戸市４人、三戸地方１人"
+      },
+      {
+            "date": "2021\/07\/13",
+            "url": "https://www.daily-tohoku.news/archives/70997",
+            "text": "【新型コロナ】青森県内で７人感染　累計２５４８人"
+      },
+      {
+            "date": "2021\/07\/13",
+            "url": "https://www.daily-tohoku.news/archives/70997",
+            "text": "【新型コロナ】青森県内で７人感染　累計２５４８人"
+      },
+      {
+            "date": "2021\/07\/13",
+            "url": "https://www.daily-tohoku.news/archives/70996",
+            "text": "【新型コロナ】岩手でデルタ株疑い１４件検出"
+      },
+      {
+            "date": "2021\/07\/12",
+            "url": "https://www.daily-tohoku.news/archives/70895",
+            "text": "【新型コロナ】７月の変異株保有割合、過去最高の約６割に／青森県内"
+      },
+      {
             "date": "2021\/07\/12",
             "url": "https://www.daily-tohoku.news/archives/70894",
             "text": "【新型コロナ】岩手県内で１２人感染　累計１８００人"
@@ -79,21 +114,6 @@
             "date": "2021\/07\/07",
             "url": "https://www.daily-tohoku.news/archives/70412",
             "text": "【新型コロナ】岩手県内で９人感染　累計１７４６人"
-      },
-      {
-            "date": "2021\/07\/07",
-            "url": "https://www.daily-tohoku.news/archives/70405",
-            "text": "【新型コロナ】感染者居住地、保健所管内別の公表継続／青森県"
-      },
-      {
-            "date": "2021\/07\/07",
-            "url": "https://www.daily-tohoku.news/archives/70319",
-            "text": "【コロナワクチン】供給量、希望の２割未満　青森県内７月後半"
-      },
-      {
-            "date": "2021\/07\/06",
-            "url": "https://www.daily-tohoku.news/archives/70240",
-            "text": "感染防止対策整え受け入れ準備　北奥羽の海水浴場、コロナ禍２度目の夏"
       }
     ]
 }
