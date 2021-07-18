@@ -1,6 +1,61 @@
 {
     "newsItems": [
       {
+            "date": "2021\/07\/18",
+            "url": "https://www.daily-tohoku.news/archives/71572",
+            "text": "【新型コロナ】上十三２人、八戸１人感染　県内計７人"
+      },
+      {
+            "date": "2021\/07\/18",
+            "url": "https://www.daily-tohoku.news/archives/71567",
+            "text": "【新型コロナ】岩手で１０人感染　盛岡でクラスターも"
+      },
+      {
+            "date": "2021\/07\/17",
+            "url": "https://www.daily-tohoku.news/archives/71459",
+            "text": "【新型コロナ】青森県内で８人感染　上十三管内のクラスターで新規１人"
+      },
+      {
+            "date": "2021\/07\/17",
+            "url": "https://www.daily-tohoku.news/archives/71458",
+            "text": "【新型コロナ】岩手で１０人感染　中部管内の教育保育施設でクラスター"
+      },
+      {
+            "date": "2021\/07\/17",
+            "url": "https://www.daily-tohoku.news/archives/71367",
+            "text": "【コロナワクチン】８月２日、９日の市町村別配分量を決定／青森県内"
+      },
+      {
+            "date": "2021\/07\/16",
+            "url": "https://www.daily-tohoku.news/archives/71360",
+            "text": "【新型コロナ】青森県内で３人感染　八工大クラスター関連、新たに１人"
+      },
+      {
+            "date": "2021\/07\/16",
+            "url": "https://www.daily-tohoku.news/archives/71358",
+            "text": "【新型コロナ】二戸管内の１人含む９人感染／岩手県内"
+      },
+      {
+            "date": "2021\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/71248",
+            "text": "【新型コロナ】八戸工大で３人感染、クラスターは９人に"
+      },
+      {
+            "date": "2021\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/71244",
+            "text": "【新型コロナ】岩手でデルタ株初確認　１５日、新規感染は６人"
+      },
+      {
+            "date": "2021\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/71231",
+            "text": "【新型コロナ】米軍三沢基地関係者１人が陽性"
+      },
+      {
+            "date": "2021\/07\/15",
+            "url": "https://www.daily-tohoku.news/archives/71157",
+            "text": "【新型コロナ】青森県内で６人感染　八戸の大学でクラスターも"
+      },
+      {
             "date": "2021\/07\/14",
             "url": "https://www.daily-tohoku.news/archives/71116",
             "text": "【新型コロナ】岩手で８人感染　累計１８２０人"
@@ -84,36 +139,6 @@
             "date": "2021\/07\/09",
             "url": "https://www.daily-tohoku.news/archives/70617",
             "text": "【新型コロナ】岩手県内で１２人感染　中部管内でクラスター"
-      },
-      {
-            "date": "2021\/07\/09",
-            "url": "https://www.daily-tohoku.news/archives/70526",
-            "text": "【コロナワクチン】１９、２６日の週、青森県南には４１箱"
-      },
-      {
-            "date": "2021\/07\/08",
-            "url": "https://www.daily-tohoku.news/archives/70508",
-            "text": "【新型コロナ】上十三管内の学校クラスター、弘前管内から飛び火"
-      },
-      {
-            "date": "2021\/07\/08",
-            "url": "https://www.daily-tohoku.news/archives/70508",
-            "text": "【新型コロナ】岩手県内で８人感染　盛岡では学校クラスター"
-      },
-      {
-            "date": "2021\/07\/08",
-            "url": "https://www.daily-tohoku.news/archives/70470",
-            "text": "上十三管内で７人コロナ感染、学校でクラスター／青森県"
-      },
-      {
-            "date": "2021\/07\/07",
-            "url": "https://www.daily-tohoku.news/archives/70414",
-            "text": "【新型コロナ】青森県内で５人感染　八戸市のスナックでクラスター"
-      },
-      {
-            "date": "2021\/07\/07",
-            "url": "https://www.daily-tohoku.news/archives/70412",
-            "text": "【新型コロナ】岩手県内で９人感染　累計１７４６人"
       }
     ]
 }
